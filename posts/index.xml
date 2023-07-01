@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 16:29:22 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Sat, 01 Jul 2023 16:29:22 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            #关于搭建自己的blog出现的问题并且解决：因为我的电脑是macOS操作系统，所以遇到了很多安装上的困难。首先，我在网上搜索了很多关于博客，阅读了很多详细的步骤操作，搭建的相关帖子。开始先安装了brew。在网上找了很多安装的方法。然后安装了git。出现问题最多的是安装Hugo。失败了很多次，因为终端安装太慢还找了很多加速器。经过不懈努力，最后成功安装。在下载Hugo主题时不知道怎么操作，下载完之后打开1313网站时一直显示Page Not Found。投送到自己的GitHub时，在打开GitHub时总是出现卡顿，重启电脑等待一会，解決了这个问题。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
